@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shandybro
 - 👀 I’m interested in web devlopment
-- 🌱 I’m currently learning pythom 
+- 🌱 I’m currently learning python
 
 - 
 
